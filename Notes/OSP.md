@@ -86,29 +86,29 @@
 
 #### Web-фреймворки
 
-* **Play Framework** позволяет легко разрабатывать расширяемые вебприложения на Java и Scala.
+* [**Play Framework**](https://github.com/playframework/playframework) позволяет легко разрабатывать расширяемые вебприложения на Java и Scala.
 
-* **Atmosphere** фреймворк для разработки клиентской и серверной части асинхронных веб.приложений, поддерживающий разные серверны, браузеры и плагины.
+* [**Atmosphere**](https://github.com/Atmosphere/atmosphere) фреймворк для разработки клиентской и серверной части асинхронных веб.приложений, поддерживающий разные серверны, браузеры и плагины.
 
-* **Grails Core** вебфреймворк.
+* [**Grails Core**](https://github.com/grails/grails-core) вебфреймворк.
 
-* **Ghost Driver** реализация Remote WebDriver Wire протокола, использующая PhantomJS как бэкенд.
+* [**Ghost Driver**](https://github.com/detro/ghostdriver) реализация Remote WebDriver Wire протокола, использующая PhantomJS как бэкенд.
 
-* **Ninja** полноценный веб фреймворк для Java. Надежный, быстрый и очень продуктивный.
+* [**Ninja**](https://github.com/ninjaframework/ninja) полноценный веб фреймворк для Java. Надежный, быстрый и очень продуктивный.
 
-* **ElectronicArts Orbit** современный фреймворк для JVM языков, который упрощает создание и обслуживание распределенных и масштабируемых онлайн сервисов.
+* [**ElectronicArts Orbit**](https://github.com/electronicarts/orbit) современный фреймворк для JVM языков, который упрощает создание и обслуживание распределенных и масштабируемых онлайн сервисов.
 
-* **Mustache.java** портированная на Java Mustache.js (система создания и использования веб-шаблонов с минимальной бизнес логикой).
+* [**Mustache.java**](https://github.com/spullara/mustache.java) портированная на Java Mustache.js (система создания и использования веб-шаблонов с минимальной бизнес логикой).
 
-* **Ratpack** простой, мощный набор библиотек для создания высокопроизводительных вебприложений.
+* [**Ratpack**](https://github.com/ratpack/ratpack) простой, мощный набор библиотек для создания высокопроизводительных вебприложений.
 
-* **B3log Solo** система управления блогами на Java.
+* [**B3log Solo**](https://github.com/b3log/solo) система управления блогами на Java.
 
-* **Baasbox** это проект для создания backend для мобильных и веб приложений.
+* [**Baasbox**](https://github.com/baasbox/baasbox) это проект для создания backend для мобильных и веб приложений.
 
-* **Kolorobot Spring MVC 4 Quickstart Maven Archetype** проект-шаблон (архитип) для Maven'a для быстрого создания проектов вебприложений Spring MVC 4. Содержит Spring MVC 4, Servlet 3.0, Thymeleaf, Bootstrap, JPA 2.0, MongoDB, JUnit/Mockito, Spring Security 3.2.
+* [**Kolorobot Spring MVC 4 Quickstart Maven Archetype**](https://github.com/kolorobot/spring-mvc-quickstart-archetype) проект-шаблон (архитип) для Maven'a для быстрого создания проектов вебприложений Spring MVC 4. Содержит Spring MVC 4, Servlet 3.0, Thymeleaf, Bootstrap, JPA 2.0, MongoDB, JUnit/Mockito, Spring Security 3.2.
 
-* **Gargl** Generic API Recorder and Generator Lite (произносится «Gargle») — инструмент для автоматизации любого вебсайта, позволяет записывать любые запросы к сайту и превращать их в повторно используемый код на любом из языком программирования.
+* [**Gargl**](https://github.com/jodoglevy/gargl) Generic API Recorder and Generator Lite (произносится «Gargle») — инструмент для автоматизации любого вебсайта, позволяет записывать любые запросы к сайту и превращать их в повторно используемый код на любом из языком программирования.
 
 * [**Handlebars.java**](https://github.com/jknack/handlebars.java) портирование Handlebars (система работы с шаблонами Mustache) на Java.
 
@@ -116,239 +116,243 @@
 
 * [**Gwt bootstrap**](https://github.com/gwtbootstrap/gwt-bootstrap) библиотека, объединяющая виджеты из Twitter Bootstrap и возможности Google Web Toolkit.
 
-* **Netflix Zuul** сервис (edge service), обрабатывающий все запросы от всех устройств и вебсайтов к backend всех Netflix потоковых приложений, он обеспечивает динамическую маршрутизацию, мониторинг, отказоустойчивость и безопасность.
+* [**Netflix Zuul**](https://github.com/Netflix/zuul) сервис (edge service), обрабатывающий все запросы от всех устройств и вебсайтов к backend всех Netflix потоковых приложений, он обеспечивает динамическую маршрутизацию, мониторинг, отказоустойчивость и безопасность.
 
-* **Vaadin** фреймворк для разработки веб-приложений с server-side моделью программирования и состоянием UI на сервере.
+* [**Vaadin**](https://github.com/vaadin/vaadin) фреймворк для разработки веб-приложений с server-side моделью программирования и состоянием UI на сервере.
 
-* **ZK framework** фреймворк для создания высокопроизводительных веб и мобильных приложений.
+* [**ZK framework**](https://github.com/zkoss/zk) фреймворк для создания высокопроизводительных веб и мобильных приложений.
 
 #### Библиотеки и фреймворки для авторизации пользователей и обеспечения безопасности
 
-* **Scribe Java** простая OAuth библиотека для Java.
+* [**Scribe Java**](https://github.com/fernandezpablo85/scribe-java) простая OAuth библиотека для Java.
 
-* **Spring security OAuth** добавление методов авторизации OAuth1(a) и OAuth2 для Spring веб-приложений.
+* [**Spring Security OAuth**](https://github.com/spring-projects/spring-security-oauth) добавление методов авторизации OAuth1(a) и OAuth2 для Spring веб-приложений.
 
-* **Jasig CAS (Central Authentication Service)** обеспечивает стандартный механизм аутентификация пользователей для веб приложений.
+* [**Jasig CAS (Central Authentication Service)**](https://github.com/Jasig/cas) обеспечивает стандартный механизм аутентификация пользователей для веб приложений.
 
-* **Spring security** Spring фреймворк для авторизации и управлению пользователями и безопасностью приложений.
+* [**Spring Security**](https://github.com/spring-projects/spring-security) Spring фреймворк для авторизации и управлению пользователями и безопасностью приложений.
 
-* **Play Authenticate** аутентификацонный плагин для Play фреймворка.
+* [**Play Authenticate**](https://github.com/joscha/play-authenticate) аутентификацонный плагин для Play фреймворка.
 
 ### Сериализация и работа с файлами
 
-* **Square Okio** Современный I/O API для Java.
+* [**Square Okio**](https://github.com/square/okio) Современный I/O API для Java.
 
-* **Square type** Легкий, быстрый, транзакционный, файловый FIFO для Android и Java.
+* [**Square type**](https://github.com/square/tape) Легкий, быстрый, транзакционный, файловый FIFO для Android и Java.
 
-* **Simple Binary Encoding (SBE)** реализация кодирования и декодирования сообщений приложения бинарный формат для систем требующих очень быстрое время ответа.
+* [**Simple Binary Encoding (SBE)**](https://github.com/real-logic/simple-binary-encoding) реализация кодирования и декодирования сообщений приложения бинарный формат для систем требующих очень быстрое время ответа.
 
-* **MessagePack** реализация быстрой сериализации в компактный бинарный формат для Java.
+* [**MessagePack**](https://github.com/msgpack/msgpack-java) реализация быстрой сериализации в компактный бинарный формат для Java.
 
 #### Работа с изображениями и видео
 
-* **Facebook Rebound** библиотека, которая моделирует поведение физики реального мира в вашем приложении.
+* [**Facebook Rebound**](https://github.com/facebook/rebound) библиотека, которая моделирует поведение физики реального мира в вашем приложении.
 
-* **Processing** Исходный код для Processing Development Environment (PDE) — программному языку для обработки видео и графики.
+* [**Processing**](https://github.com/processing/processing) Исходный код для Processing Development Environment (PDE) — программному языку для обработки видео и графики.
 
-* **JavaCV** использует конвертер Java-C++ JavaCPP Presets для простого использования библиотек для работы с компьютерным зрением (OpenCV, FFmpeg, libdc1394, PGR FlyCapture, OpenKinect, videoInput, ARToolKitPlus, and flandmark) и реализует классы-утилиты для облегчения работы с этими библиотеками на платформе Java.
+* [**JavaCV**](https://github.com/bytedeco/javacv) использует конвертер Java-C++ JavaCPP Presets для простого использования библиотек для работы с компьютерным зрением (OpenCV, FFmpeg, libdc1394, PGR FlyCapture, OpenKinect, videoInput, ARToolKitPlus, and flandmark) и реализует классы-утилиты для облегчения работы с этими библиотеками на платформе Java.
+
+* [**imgscalr**](https://github.com/thebuzzmedia/imgscalr) Простая библиотека Java для масштабирования изображений.
+
+* [**webcam-capture**](https://github.com/sarxos/webcam-capture) Данный проект позволяет получить доступ к USB вебкамере или remote IP / сетевой камере напрямую из Java кода.
 
 #### Логирование (logging)
 
-* **Graylog2 Server** свободная и открытая система логирования.
+* [**Graylog2 Server**](https://github.com/Graylog2/graylog2-server) свободная и открытая система логирования.
      
-* **logback** надежный, универсальный, быстрый и гибкий фреймворк для логировани в Java.
+* [**logback**](https://github.com/qos-ch/logback) надежный, универсальный, быстрый и гибкий фреймворк для логировани в Java.
      
-* **slf4j** Библиотека предлагает Facade логирования для простого переключения между разными библиотеками логирования (java.util.logging, logback, log4j и т. п.).
+* [**slf4j**](https://github.com/qos-ch/slf4j) Библиотека предлагает Facade логирования для простого переключения между разными библиотеками логирования (java.util.logging, logback, log4j и т. п.).
 
 #### Базы данных и хранилища
 
-* **Thinkaurelius Titan** распределенная графовая база данных.
+* [**Thinkaurelius Titan**](https://github.com/thinkaurelius/titan) распределенная графовая база данных.
      
-* **Apache Cassandra** — база данных с высокой доступностью и высокой расширямостью и отличной производительностью.
+* [**Apache Cassandra**](https://github.com/apache/cassandra) — база данных с высокой доступностью и высокой расширямостью и отличной производительностью.
      
-* **OrientDB** первая база данных с множественной моделью и поддержкой и документного хранилища и графов.
+* [**OrientDB**](https://github.com/orientechnologies/orientdb) первая база данных с множественной моделью и поддержкой и документного хранилища и графов.
      
-* **Neo4j** одна из самых популярных в мире графовых баз данных.
+* [**Neo4j**](https://github.com/neo4j/neo4j) одна из самых популярных в мире графовых баз данных.
      
-* **MapDB** содержит мультипоточные реализации Maps, Sets и Queues, которые могут сохраняться на жестком диске или в off-heap-memory. Это быстрый и простой способ создать embedded Java базу данных.
+* [**MapDB**](https://github.com/jankotek/mapdb) содержит мультипоточные реализации Maps, Sets и Queues, которые могут сохраняться на жестком диске или в off-heap-memory. Это быстрый и простой способ создать embedded Java базу данных.
      
-* **Voldemort** свободный клон Amazon's Dynamo, распределенное key-value хранилище.
+* [**Voldemort**](https://github.com/voldemort/voldemort) свободный клон Amazon's Dynamo, распределенное key-value хранилище.
      
-* **Amplab Tachyon** распределенное хранилище, ориентированное на работу с оперативной памятью и разделении данных между кластерами.
+* [**Amplab Tachyon**](https://github.com/amplab/tachyon) распределенное хранилище, ориентированное на работу с оперативной памятью и разделении данных между кластерами.
      
-* **OpentsDB** распределенная и масштабируемая база данных, работающих с временными рядами (Time Series Database TSDB) работающая поверх Hbase.
+* [**OpenTSDB**](https://github.com/OpenTSDB/opentsdb) распределенная и масштабируемая база данных, работающих с временными рядами (Time Series Database TSDB) работающая поверх Hbase.
      
-* **Hazelcast** свободное In-Memory хранилище.
+* [**Hazelcast**](https://github.com/hazelcast/hazelcast) свободное In-Memory хранилище.
      
-* ***Tinkerpop Blueprints** Добавление Blueprint Property Graph Model Interface в различные графические базы данных.
+* [**Tinkerpop Blueprints**](https://github.com/tinkerpop/blueprints) Добавление Blueprint Property Graph Model Interface в различные графические базы данных.
      
-* **Apache Lucene solr**  поисковый движок.
+* [**Apache Lucene Solr**](https://github.com/apache/lucene-solr) поисковый движок.
      
-* **Java Indexed Record Chronicle** библиотека, хранения данных, работы с сообщениями и событиями.
+* [**Java Indexed Record Chronicle**](https://github.com/peter-lawrey/Java-Chronicle) библиотека, хранения данных, работы с сообщениями и событиями.
      
-* **ToroDB** база данных.
+* [**ToroDB**](https://github.com/torodb/torodb) база данных.
      
-* **CRATE: Your Elastic Data Store** распределенная система, создающая бэкенд (или кластер) на основе nosql баз данных и свободных компонент (Presto, Elasticsearch, Lucene, Netty).
+* [**CRATE: Your Elastic Data Store**](https://github.com/crate/crate) распределенная система, создающая бэкенд (или кластер) на основе nosql баз данных и свободных компонент (Presto, Elasticsearch, Lucene, Netty).
      
-* **Linkedin Pinot** Распределенное OLAP хранилище, работающее в режиме реального времени, которое используется Linkedin для получение аналитических данных в режиме реального времени.
+* [**Linkedin Pinot**](https://github.com/linkedin/pinot) Распределенное OLAP хранилище, работающее в режиме реального времени, которое используется Linkedin для получение аналитических данных в режиме реального времени.
      
-* **Solandra** распределенный real-time поисковый движок построенный на основе Apache Solr и Apache Cassandra.
+* [**Solandra**](https://github.com/tjake/Solandra) распределенный real-time поисковый движок построенный на основе Apache Solr и Apache Cassandra.
      
-* **VoltDB** горизонтально масштабируемая in-memory SQL RDBMS база данных, разработанная для приложений которым требуется особенно высокая пропускная способность базы данных на чтение и запись.
+* [**VoltDB**](https://github.com/VoltDB/voltdb) горизонтально масштабируемая in-memory SQL RDBMS база данных, разработанная для приложений которым требуется особенно высокая пропускная способность базы данных на чтение и запись.
      
-* **LevelDB** Портирование LevelDB на Java. LevelDB это быстрое key-value хранилище, разработанное Google.
+* [**LevelDB**](https://github.com/dain/leveldb) Портирование LevelDB на Java. LevelDB это быстрое key-value хранилище, разработанное Google.
      
-* **KairosDB** быстрая распределенная расширяемая time series база данных, написанная поверх Cassandra.
+* [**KairosDB**](https://github.com/kairosdb/kairosdb) быстрая распределенная расширяемая time series база данных, написанная поверх Cassandra.
      
-* **Linkedin Sensei** Распределенная поисковая база данных для работы в реальном времени.
+* [**Linkedin Sensei**](https://github.com/linkedin/sensei) Распределенная поисковая база данных для работы в реальном времени.
      
-* **ElephantDB** Распределенная база данных, специализирующая на экспорте key/value данных из Hadoop.
+* [**ElephantDB**](https://github.com/nathanmarz/elephantdb) Распределенная база данных, специализирующая на экспорте key/value данных из Hadoop.
      
-* **Apache Drill** Безсхемовый движок обработки SQL запросов для Hadoop, NoSQL и облачных сервисов.
+* [**Apache Drill**](https://github.com/apache/drill) Безсхемовый движок обработки SQL запросов для Hadoop, NoSQL и облачных сервисов.
      
-* **Tinkerpop Rexster** сервер графических баз данных, который может передать любые данные графов через REST и бинарный протокол, называемый RexPro.
+* [**Tinkerpop Rexster**](https://github.com/tinkerpop/rexster) сервер графических баз данных, который может передать любые данные графов через REST и бинарный протокол, называемый RexPro.
      
-* **Tomcat Redis session manager** Основанное на Redis простое хранилище сессий для Apache Tomcat.
+* [**Tomcat Redis session manager**](https://github.com/jcoleman/tomcat-redis-session-manager) Основанное на Redis простое хранилище сессий для Apache Tomcat.
 
-* **Embulk** открытый пакетный (bulk) загрузчик данных, который помогает трансформировать данные между разными базами данных, хранилищ, файловых форматов и облачных сервисов.
+* [**Embulk**](https://github.com/embulk/embulk) открытый пакетный (bulk) загрузчик данных, который помогает трансформировать данные между разными базами данных, хранилищ, файловых форматов и облачных сервисов.
      
 #### Поисковые системы
 
-* **ElasticSearch** одна из самых популярных систем распределенного облачного поиска.
+* [**ElasticSearch**](https://github.com/elastic/elasticsearch) одна из самых популярных систем распределенного облачного поиска.
 
-* **Linkedin Indextank Engine** Проект IndexTank это поисковый движок, поддерживающий возможности вроде переменных (boosts), категорий (facets), предложения, автокомплит и т. п.
+* [**Linkedin Indextank Engine**](https://github.com/linkedin/indextank-engine) Проект IndexTank это поисковый движок, поддерживающий возможности вроде переменных (boosts), категорий (facets), предложения, автокомплит и т. п.
 
-* **Apache Solr** поисковый сервер, основанный на Apache Lucene поисковой библиотеке.
+* [**Apache Solr**](https://github.com/apache/solr) поисковый сервер, основанный на Apache Lucene поисковой библиотеке.
 
-* **Linkedin Cleo** это гибкое библиотека для создания умных подсказок поиска.
+* [**Linkedin Cleo**](https://github.com/linkedin/cleo) это гибкое библиотека для создания умных подсказок поиска.
 
-* **ElasticSearch Cloud AWS** Плагин для работы ElasticSearch с Amazon Web Service (AWS) облаками.
+* [**ElasticSearch Cloud AWS**](https://github.com/elastic/elasticsearch-cloud-aws) Плагин для работы ElasticSearch с Amazon Web Service (AWS) облаками.
 
-* **ElasticSearch analysis IK Analysis** плагин интеграции с Lucene IK анализаторов для elastic search, поддерживающий пользовательские словари.
+* [**ElasticSearch analysis IK Analysis**](https://github.com/medcl/elasticsearch-analysis-ik) плагин интеграции с Lucene IK анализаторов для elastic search, поддерживающий пользовательские словари.
 
 #### Клиенты и драйверы баз данных
 
-* **Facebook Presto** Библиотека для работы с распределенными SQL запросами к big data источникам (Cassandra, Hive, Kafka, MySQL, PostgreSQL и т.п.).
+* [**Facebook Presto**](https://github.com/facebook/presto) Библиотека для работы с распределенными SQL запросами к big data источникам (Cassandra, Hive, Kafka, MySQL, PostgreSQL и т.п.).
 
-* **Jedis** Невероятно маленький и эффективный Redis Java клиент.
+* [**Jedis**](https://github.com/xetorthio/jedis) Невероятно маленький и эффективный Redis Java клиент.
 
-* **Tinkerpop Gremlin** язык для работы с графами и разными графическими базами данных (обхода графов, запросы к графам, манипуляции и т. п.).
+* [**Tinkerpop Gremlin**](https://github.com/tinkerpop/gremlin) язык для работы с графами и разными графическими базами данных (обхода графов, запросы к графам, манипуляции и т. п.).
 
-* **MongoDB Java Driver** клиент для MongoDB.
+* [**MongoDB Java Driver**](https://github.com/mongodb/mongo-java-driver) клиент для MongoDB.
 
-* **Yahoo Mysql_perf_analyzer** Анализатор производительности MySQL.
+* [**Yahoo Mysql_perf_analyzer**](https://github.com/yahoo/mysql_perf_analyzer) Анализатор производительности MySQL.
 
-* **Airbnb Airpal** Веб UI для PrestoDB.
+* [**Airbnb Airpal**](https://github.com/airbnb/airpal) Веб UI для PrestoDB.
 
-* **MongoDB hadoop** клиент для интеграции с Hadoop.
+* [**MongoDB Hadoop**](https://github.com/mongodb/mongo-hadoop) клиент для интеграции с Hadoop.
 
-* **Elasticsearch JDBC** поддержка для Elasticsearch.
+* [**Elasticsearch JDBC**](https://github.com/jprante/elasticsearch-jdbc) поддержка для Elasticsearch.
 
-* **Flyway** инструмент по миграции баз данных.
+* [**Flyway**](https://github.com/flyway/flyway) инструмент по миграции баз данных.
 
-* **Elasticsearch River MongoDB** Plugin для ElasticSearch, использует MongoDB как хранилище для ElasticSearch.
+* [**Elasticsearch River MongoDB**](https://github.com/richardwilly98/elasticsearch-river-mongodb) Plugin для ElasticSearch, использует MongoDB как хранилище для ElasticSearch.
 
-* **Netflix Astyanax Cassandra** Java клиент.
+* [**Netflix Astyanax Cassandra**](https://github.com/Netflix/astyanax) Java клиент.
 
-* **Liquibase** система, позволяющая проводить миграции и обновления баз данных, генерировать SQL скрипты, документацию изменений баз данных, проводить рефакторинг и т. д.
+* [**Liquibase**](https://github.com/liquibase/liquibase) система, позволяющая проводить миграции и обновления баз данных, генерировать SQL скрипты, документацию изменений баз данных, проводить рефакторинг и т. д.
 
-* **Mongodb Morphia** Библиотека для простой сериализации объектов Java в документы MongoDB.
+* [**Mongodb Morphia**](https://github.com/mongodb/morphia) Библиотека для простой сериализации объектов Java в документы MongoDB.
 
-* **Couchdb Lucene** Полнотекстовый поиск CouchDB документов, используя Lucene.
+* [**Couchdb Lucene**](https://github.com/rnewson/couchdb-lucene) Полнотекстовый поиск CouchDB документов, используя Lucene.
 
-* **Forcedotcom Phoenix** SQL оболочка поверх Hbase с JDBC драйвером. Phoenix обеспечивает очень быстрый отклик (в течении миллисекунд), в отличии от пакетных операций map/reduce.
+* [**Forcedotcom Phoenix**](https://github.com/forcedotcom/phoenix) SQL оболочка поверх Hbase с JDBC драйвером. Phoenix обеспечивает очень быстрый отклик (в течении миллисекунд), в отличии от пакетных операций map/reduce.
 
-* **Variety** Анализатор схемы MongoDB.
+* [**Variety**](https://github.com/variety/variety) Анализатор схемы MongoDB.
 
-* **Redisson** добавляет Java структуры данных (Set, SortedSet, Map, ConcurrentMap, List, Queue, BlockingQueue, Deque, Lock, AtomicLong, CountDownLatch, Publish / Subscribe, HyperLogLog, Redis pipelining) в Redis сервер. И является высокопроизводительным и неблокирующим Java Redis клиентом.
+* [**Redisson**](https://github.com/mrniko/redisson) добавляет Java структуры данных (Set, SortedSet, Map, ConcurrentMap, List, Queue, BlockingQueue, Deque, Lock, AtomicLong, CountDownLatch, Publish / Subscribe, HyperLogLog, Redis pipelining) в Redis сервер. И является высокопроизводительным и неблокирующим Java Redis клиентом.
 
-* **Netflix Priam Co-Process** набор инструментов для работы с Cassandra (архимирование и востановление, работа с токенами и т. д.).
+* [**Netflix Priam Co-Process**](https://github.com/Netflix/Priam) набор инструментов для работы с Cassandra (архивирование и востановление, работа с токенами и т. д.).
 
-* **DataStax Java driver** клиент для Apache Cassandra и DataStax.
+* [**DataStax Java driver**](https://github.com/datastax/java-driver) клиент для Apache Cassandra и DataStax.
 
-* **Memcached Java Client** java клиент для memcached.
+* [**Memcached Java Client**](https://github.com/gwhalin/Memcached-Java-Client) java клиент для memcached.
 
-* **Spring data MongoDB** Java клиент к MongoDB для фреймворка Spring.
+* [**Spring data MongoDB**](https://github.com/spring-projects/spring-data-mongodb) Java клиент к MongoDB для фреймворка Spring.
 
 #### Маппинг объектов в базы данных (ORM и т. п.)
 
-* **HikariCP** быстрая, надежная и легкая библиотека для создания JDBC connection pool с минимальными накладными расходами.
+* [**HikariCP**](https://github.com/brettwooldridge/HikariCP) быстрая, надежная и легкая библиотека для создания JDBC connection pool с минимальными накладными расходами.
 
-* **Mybatis 3** фреймворк маппинга Java объектов в базы данных.
+* [**Mybatis 3**](https://github.com/mybatis/mybatis-3) фреймворк маппинга Java объектов в базы данных.
 
-* **Hibernate ORM** фреймворк, один из самых популярных в Java.
+* [**Hibernate ORM**](https://github.com/hibernate/hibernate-orm) фреймворк, один из самых популярных в Java.
 
-* **JOOQ** решение по простой интеграции и мапингу Java приложений с популярными базами данных, такими как Oracle, Microsoft SQL Server, IBM DB2, или SAP Sybase.
+* [**JOOQ**](https://github.com/jOOQ/jOOQ) решение по простой интеграции и мапингу Java приложений с популярными базами данных, такими как Oracle, Microsoft SQL Server, IBM DB2, или SAP Sybase.
 
-* **QueryDSL** фреймворк позволяющий конструировать типобезопасные SQL-подобные запросы для множества backends включая JPA, MongoDB и SQL.
+* [**QueryDSL**](https://github.com/querydsl/querydsl) фреймворк позволяющий конструировать типобезопасные SQL-подобные запросы для множества backends включая JPA, MongoDB и SQL.
 
-* **Kundera** ORM, поддерживающий спецификации JPA 2.1 для полиглот маппинга в различные NoSQL хранилища.
+* [**Kundera**](https://github.com/impetus-opensource/Kundera) ORM, поддерживающий спецификации JPA 2.1 для полиглот маппинга в различные NoSQL хранилища.
 
-* **Spring data JPA** обертка Spring фреймворка над JPA провайдерами.
+* [**Spring Data JPA**](https://github.com/spring-projects/spring-data-jpa) обертка Spring фреймворка над JPA провайдерами.
 
-* **jDBI** предлагает удобный интерфейс над SQL операциями в Java.
+* [**jDBI**](https://github.com/jdbi/jdbi) предлагает удобный интерфейс над SQL операциями в Java.
 
-* **ActiveJDBC** реализация Active Record шаблона проектирования. Вдохновлен ActiveRecord ORM в Ruby on Rails.
+* [**ActiveJDBC**](https://github.com/javalite/activejdbc) реализация Active Record шаблона проектирования. Вдохновлен ActiveRecord ORM в Ruby on Rails.
 
 #### Системы, для обработки данных (работа с грязными данными, анализ и т.п.)
 
-* **Storm** распределенная и устойчивая к ошибкам обработка данных в реальном времени: потоковая обработка, непрерывные вычисления, распределенный RPC и другое.
+* [**Storm**](https://github.com/nathanmarz/storm) распределенная и устойчивая к ошибкам обработка данных в реальном времени: потоковая обработка, непрерывные вычисления, распределенный RPC и другое.
 
-* **OpenRefine** инструменты для обработки «грязных» плохо структурированных данных и улучшения их.
+* [**OpenRefine**](https://github.com/OpenRefine/OpenRefine) инструменты для обработки «грязных» плохо структурированных данных и улучшения их.
 
-* **Addthis Stream lib** библиотека Java для групповых операций на потоковыми данными, таких как оценка мощности (подсчет количества элементов), определение членов множества, оценка частоты, получения первых N элементов и т.п.
+* [**Addthis Stream lib**](https://github.com/addthis/stream-lib) библиотека Java для групповых операций на потоковыми данными, таких как оценка мощности (подсчет количества элементов), определение членов множества, оценка частоты, получения первых N элементов и т.п.
 
-* **HdrHistogram (A High Dynamic Range (HDR) Histogram )** выполняет запись данных, их анализ и построение сложных графиков (Histogram).
+* [**HdrHistogram (A High Dynamic Range (HDR) Histogram )**](https://github.com/HdrHistogram/HdrHistogram) выполняет запись данных, их анализ и построение сложных графиков (Histogram).
 
-* **HazyResearch DeepDive** система выделения значений из темных данных. Темные данные, как темная материя, имеют большой вес из текста, таблиц, графиков и изображений и не имеют четкой структуры, что делает их почти не обрабатываемыми обычными способами.
+* [**HazyResearch DeepDive**](https://github.com/HazyResearch/deepdive) система выделения значений из темных данных. Темные данные, как темная материя, имеют большой вес из текста, таблиц, графиков и изображений и не имеют четкой структуры, что делает их почти не обрабатываемыми обычными способами.
 
-* **Apache Incubator Zeppelin** расположенный в веб notebook (записная книжка?), который позволяет проводить анализ данных, их визуализацию и создавать документы, содержащие SQL, Scala и т.п.
+* [**Apache Incubator Zeppelin**](https://github.com/apache/incubator-zeppelin) расположенный в веб notebook (записная книжка?), который позволяет проводить анализ данных, их визуализацию и создавать документы, содержащие SQL, Scala и т.п.
 
-* **Seldon Server** предоставляет реализацию REST API интерфейса для выдачи рекомендаций по контенту и аналитических предсказаний.
+* [**Seldon Server**](https://github.com/SeldonIO/seldon-server) предоставляет реализацию REST API интерфейса для выдачи рекомендаций по контенту и аналитических предсказаний.
 
-* **Pulsar** открытая аналитическая платформа, работающая в реальном времени. Лицензия: GNU 2.0, рейтинг — 435.English
+* [**Pulsar**](https://github.com/pulsarIO/realtime-analytics) открытая аналитическая платформа, работающая в реальном времени. Лицензия: GNU 2.0, рейтинг — 435.English
 
-* **Suro: Netflix's Data Pipeline** сервис для сбора, агрегации и управления большим количеством разнообразных событий, включая данные логов.
+* [**Suro: Netflix's Data Pipeline**](https://github.com/Netflix/suro) сервис для сбора, агрегации и управления большим количеством разнообразных событий, включая данные логов.
      
 #### Большие данные (big data)
 
-* **Apache Storm** свободная и распределенная система обработки данных в реальном времени, аналог Hadoop, но для быстрой потоковой обработки данных, может использоваться с любым языком программирования.
+* [**Apache Storm**](https://github.com/apache/storm) свободная и распределенная система обработки данных в реальном времени, аналог Hadoop, но для быстрой потоковой обработки данных, может использоваться с любым языком программирования.
 
-* **Druid** column-oriented хранилище и система обработки в реальном времени для обработки потоковых и пакетной информации и интегрированная с Samza, Kafka, Storm, and Hadoop.
+* [**Druid**](https://github.com/druid-io/druid) column-oriented хранилище и система обработки в реальном времени для обработки потоковых и пакетной информации и интегрированная с Samza, Kafka, Storm, and Hadoop.
 
-* **H2o** добавляет математические операции в Hadoop, h2o позволяет быстро вычислять статистику, машинное обучение и математические операции для bigdata.
+* [**H2o**](https://github.com/h2oai/h2o-2) добавляет математические операции в Hadoop, h2o позволяет быстро вычислять статистику, машинное обучение и математические операции для bigdata.
 
-* **Cloudera Oryx** простая инфраструктура, обеспечивающая высоко нагруженную систему машинного обучения, анализа и выдачи прогнозов в режиме реального времени, работающая с Apache Hadoop, HTTP REST API и реализующая lambda architecture.
+* [**Cloudera Oryx**](https://github.com/cloudera/oryx) простая инфраструктура, обеспечивающая высоко нагруженную систему машинного обучения, анализа и выдачи прогнозов в режиме реального времени, работающая с Apache Hadoop, HTTP REST API и реализующая lambda architecture.
 
-* **Twitter Ambrose** платформа для визуализации и мониторинга в реальном времени MapReduce data workflows.
+* [**Twitter Ambrose**](https://github.com/twitter/ambrose) платформа для визуализации и мониторинга в реальном времени MapReduce data workflows.
 
-* **Twitter Elephant bird** набор коллекций и алгоритмов от Twitter'а, для работы с Hadoop lzo, Apache Thrift, Hadoop, Pig, Hive, и HBase.
+* [**Twitter Elephant bird**](https://github.com/twitter/elephant-bird) набор коллекций и алгоритмов от Twitter'а, для работы с Hadoop lzo, Apache Thrift, Hadoop, Pig, Hive, и HBase.
 
-* **Apache Hadoop** система для обработки Big Data.
+* [**Apache Hadoop**](https://github.com/apache/hadoop) система для обработки Big Data.
 
-* **Google Mr4c** фрейворк, который позволяет запускать нативный код в Hadoop.
+* [**Google Mr4c**](https://github.com/google/mr4c) фрейворк, который позволяет запускать нативный код в Hadoop.
 
-* **Alibaba Jstorm** распределенная и устойчивая к ошибкам система вычисления результатов в реальном времени, вдохновленная Apache Storm.
+* [**Alibaba Jstorm**](https://github.com/alibaba/jstorm) распределенная и устойчивая к ошибкам система вычисления результатов в реальном времени, вдохновленная Apache Storm.
 
-* **Apache Hive** Фреймворк для созданий SQL подобного языка запросов для Hadoop.
+* [**Apache Hive**](https://github.com/apache/hive) Фреймворк для созданий SQL подобного языка запросов для Hadoop.
 
-* **Etsy Oculus** находит аномальную корреляцию компонент системы Kale system. После того, как вы ввыбрали интересную или аномальную метрику, Oculus найдете все другие метрики в вашей системе, которые выглядят похоже.
+* [**Etsy Oculus**](https://github.com/etsy/oculus) находит аномальную корреляцию компонент системы Kale system. После того, как вы ввыбрали интересную или аномальную метрику, Oculus найдете все другие метрики в вашей системе, которые выглядят похоже.
 
-* **Linkedin Datafu** Hadoop библиотека для крупномасштабных систем обработки данных, на данный момент это проект в Apache Incubator.
+* [**Linkedin Datafu**](https://github.com/linkedin/datafu) Hadoop библиотека для крупномасштабных систем обработки данных, на данный момент это проект в Apache Incubator.
 
-* **Linkedin Gobblin** универсальный интеграционный фреймворк работающий на Hadoop для получения, трансформации и загрузки большого количества данных в различные источники данных, такие как базы данных, rest APIs, FTP/SFTP сервера и т.д.
+* [**Linkedin Gobblin**](https://github.com/linkedin/gobblin) универсальный интеграционный фреймворк работающий на Hadoop для получения, трансформации и загрузки большого количества данных в различные источники данных, такие как базы данных, rest APIs, FTP/SFTP сервера и т.д.
 
-* **Apache Kylin** открытая распределенная аналитическая система, которая обеспечивает SQL интерфейс и OLAP отчеты для Hadoop.
+* [**Apache Kylin**](https://github.com/KylinOLAP/Kylin) открытая распределенная аналитическая система, которая обеспечивает SQL интерфейс и OLAP отчеты для Hadoop.
 
-* **Umongo** десктопное приложение для просмотра и управления вашим MongoDB кластером.
+* [**Umongo**](https://github.com/agirbal/umongo) десктопное приложение для просмотра и управления вашим MongoDB кластером.
 
-* **Apache Flink** открытая платформа для обработки потоковых и пакетных данных.
+* [**Apache Flink**](https://github.com/apache/flink) открытая платформа для обработки потоковых и пакетных данных.
 
-* **ElasticSearch Hadoop** интеграция поиска и анализ ElasticSearch в Hadoop.
+* [**ElasticSearch Hadoop**](https://github.com/elastic/elasticsearch-hadoop) интеграция поиска и анализ ElasticSearch в Hadoop.
 
-* **Oryx 2** реализация лямбда архитектуры для Apache Spark и Apache Kafka, но со специализацией на машинном обучении в реальном времени.
+* [**Oryx 2**](https://github.com/OryxProject/oryx) реализация лямбда архитектуры для Apache Spark и Apache Kafka, но со специализацией на машинном обучении в реальном времени.
 
-* **Yahoo SAMOA (Scalable Advanced Massive Online Analysis)** открытая платформа для потоковой обработки больших данных (mining big data).
+* [**Yahoo SAMOA (Scalable Advanced Massive Online Analysis)**](https://github.com/yahoo/samoa) открытая платформа для потоковой обработки больших данных (mining big data).
 
 #### Машинное обучение и нейроные сети
 
