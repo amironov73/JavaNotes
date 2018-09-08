@@ -356,222 +356,222 @@
 
 #### Машинное обучение и нейроные сети
 
-* **Airbnb Aerosolve** Библиотека для машинного обучения, дружелюбная к пользователям (простая в настройке и т. п.).
+* [**Airbnb Aerosolve**](https://github.com/airbnb/aerosolve) Библиотека для машинного обучения, дружелюбная к пользователям (простая в настройке и т. п.).
 
-* **SmileMiner (Statistical Machine Intelligence and Learning Engine)** набор Java библиотек различных алгоритмов машинного обучения.
+* [**SmileMiner (Statistical Machine Intelligence and Learning Engine)**](https://github.com/haifengl/smile) набор Java библиотек различных алгоритмов машинного обучения.
 
-* **DeepLearning4j** Deep Learning нейронная сеть, написанная на Java и Scala, с интеграцией с Hadoop, Spark и другими backends, которые могут работать как с центральным, так и с графическим процессором.
+* [**DeepLearning4j**](https://github.com/deeplearning4j/deeplearning4j) Deep Learning нейронная сеть, написанная на Java и Scala, с интеграцией с Hadoop, Spark и другими backends, которые могут работать как с центральным, так и с графическим процессором.
 
-* **LibSVM** библиотека для мамашиного обучения на основе support vector machines (support vector networks), поддерживает SVM classification and regression, C-SVM classification, nu-SVM classification, one-class-SVM, epsilon-SVM regression, and nu-SVM Regression.
+* [**LibSVM**](https://github.com/cjlin1/libsvm) библиотека для машиного обучения на основе support vector machines (support vector networks), поддерживает SVM classification and regression, C-SVM classification, nu-SVM classification, one-class-SVM, epsilon-SVM regression, and nu-SVM Regression.
 
-* **NeuralNetworks** Алгоритмы машинного обучения и нейронных сетей с использованием GPU процессора.
+* [**NeuralNetworks**](https://github.com/ivan-vasilev/neuralnetworks) Алгоритмы машинного обучения и нейронных сетей с использованием GPU процессора.
 
-* **Datumbox framework** фреймворк для быстрой разработки систем машинного обучения и анализа статистики.
+* [**Datumbox framework**](https://github.com/datumbox/datumbox-framework) фреймворк для быстрой разработки систем машинного обучения и анализа статистики.
 
-* **Apache Mahout** Задачей проекта Apache Mahout является создание окружения для быстрой разработки масштабируемых и производительных систем машинного обучения.
+* [**Apache Mahout**](https://github.com/apache/mahout) Задачей проекта Apache Mahout является создание окружения для быстрой разработки масштабируемых и производительных систем машинного обучения.
 
-* **Encog java core** фреймворк для машинного обучения предоставляющий большое число алгоритмов и технологий машинного обучения (нейронные сети, генетические алгоритмы и т. д.).
+* [**Encog java core**](https://github.com/encog/encog-java-core) фреймворк для машинного обучения предоставляющий большое число алгоритмов и технологий машинного обучения (нейронные сети, генетические алгоритмы и т. д.).
 
 #### Работа с естественными языками (NLP)
 
-* **Stanford CoreNLP** библиотека для работы с Stanford NLP (инструментами для анализа и работы с текстом на естественных языках, например английским).
+* [**Stanford CoreNLP**](https://github.com/stanfordnlp/CoreNLP) библиотека для работы с Stanford NLP (инструментами для анализа и работы с текстом на естественных языках, например английским).
 
 #### Парсеры
 
-* **Sparklemotion Nokogiri** это HTML, XML, SAX, и Reader парсер с подержкой XPath и CSS selector.
+* [**SparkleMotion Nokogiri**](https://github.com/sparklemotion/nokogiri) это HTML, XML, SAX, и Reader парсер с подержкой XPath и CSS selector.
 
-* **jsoup** это Java HTML парсер с использованием DOM, CSS, и jquery.
+* [**jsoup**](https://github.com/jhy/jsoup) Java HTML парсер с использованием DOM, CSS, и jquery.
 
-* **Webmagic** Фреймворк для создания интернет ботов для индексирования (crawler), которые реализует все этапы жизненного цикла crawler: скачивание, управление url, выделение контент и сохранение.
+* [**Webmagic**](https://github.com/code4craft/webmagic) Фреймворк для создания интернет ботов для индексирования (crawler), которые реализует все этапы жизненного цикла crawler: скачивание, управление url, выделение контент и сохранение.
 
-* **ANTLR (ANother Tool для Language Recognition)** мощный генератор парсеров для чтения, обработки, использование или конвертирования структурированного текста или бинарных файлов.
+* [**ANTLR (ANother Tool для Language Recognition)**](https://github.com/antlr/antlr4) мощный генератор парсеров для чтения, обработки, использование или конвертирования структурированного текста или бинарных файлов.
 
-* **Parboiled** Элегантный, легкий, простой в использовании и мощный парсер, написанный на Java и Scala.
+* [**Parboiled**](https://github.com/sirthias/parboiled) Элегантный, легкий, простой в использовании и мощный парсер, написанный на Java и Scala.
 
-* **Pegdown** Обработчик языка разметки Markdown, основанный на PEG парсере, поддерживающим большое количество расширений.
+* [**Pegdown**](https://github.com/sirthias/pegdown) Обработчик языка разметки Markdown, основанный на PEG парсере, поддерживающим большое количество расширений.
 
 #### Работа с JSON
 
-* **Alibaba Fastjson** Быстрый JSON обработчик.
+* [**Alibaba Fastjson**](https://github.com/alibaba/fastjson) Быстрый JSON обработчик.
 
-* **JSON java** Набор классов для работы с JSON в Java, конвертации JSON в XML, CDL, cookie lists, HTTP headers и обратно.
+* [**JSON java**](https://github.com/douglascrockford/JSON-java) Набор классов для работы с JSON в Java, конвертации JSON в XML, CDL, cookie lists, HTTP headers и обратно.
 
-* **Jsonschema2pojo** Генерация Java классов из JSON схемы (или примера JSON) с аннотациями для data-binding для Jackson 1.x or 2.x, Gson и т. п.
+* [**JsonSchema2pojo**](https://github.com/joelittlejohn/jsonschema2pojo) Генерация Java классов из JSON схемы (или примера JSON) с аннотациями для data-binding для Jackson 1.x or 2.x, Gson и т. п.
 
-* **Square Moshi** JSON библиотека для Android и Java, служит для упрощения парсинга Json в объекты Java.
+* [**Square Moshi**](https://github.com/square/moshi) JSON библиотека для Android и Java, служит для упрощения парсинга Json в объекты Java.
 
-* **Instagram Ig json parser** Быстрый JSON парсер для Java проектов.
+* [**Instagram Ig json parser**](https://github.com/Instagram/ig-json-parser) Быстрый JSON парсер для Java проектов.
 
-* **FasterXML Jackson core** Основная часть Jackson библиотеки для реализации работы с низкоуровневым (»streaming") JSON парсера и генераторов JSON файлов.
+* [**FasterXML Jackson core**](https://github.com/FasterXML/jackson-core) Основная часть Jackson библиотеки для реализации работы с низкоуровневым (»streaming") JSON парсера и генераторов JSON файлов.
 
-* **FasterXML Jackson databind** Основной data-binding пакет для Jackson (2.x) основанный на потоковом API Jackson Сore.
+* [**FasterXML Jackson databind**](https://github.com/FasterXML/jackson-databind) Основной data-binding пакет для Jackson (2.x) основанный на потоковом API Jackson Сore.
 
-* **Jayway JsonPath Java JsonPath** реализация аналога XPATH только для Json, а не XML.
+* [**Jayway JsonPath Java JsonPath**](https://github.com/jayway/JsonPath) реализация аналога XPATH только для Json, а не XML.
 
-* **Json schema validator** Валидация JSON Schema, реализована на чистой Java, создана с целью проверки Json файлов, используя Json схемы.
+* [**Json schema validator**](https://github.com/fge/json-schema-validator) Валидация JSON Schema, реализована на чистой Java, создана с целью проверки Json файлов, используя Json схемы.
 
 #### Веб сервера и сервера приложений (web server & application server)
 
-* **Wildfly** сервер приложений (Application Server).
+* [**Wildfly**](https://github.com/wildfly/wildfly) сервер приложений (Application Server).
 
-* **Undertow IO** высокопроизводительный неблокирующий вебсервер.
+* [**Undertow IO**](https://github.com/undertow-io/undertow) высокопроизводительный неблокирующий вебсервер.
 
-* **Apache Tomcat** открытый web сервер с поддержкой сервлетов, jsp и некоторых аспектов J2EE.
+* [**Apache Tomcat**](https://github.com/apache/tomcat) открытый web сервер с поддержкой сервлетов, jsp и некоторых аспектов J2EE.
 
-* **Nginx clojure** Nginx модуль с использованием Clojure или Java или Groovy программ.
+* [**Nginx clojure**](https://github.com/nginx-clojure/nginx-clojure) Nginx модуль с использованием Clojure или Java или Groovy программ.
 
-* **Eclipse Jetty.project**  Http сервер и контейнер сервлетов.
+* [**Eclipse Jetty.project**](https://github.com/eclipse/jetty.project)  Http сервер и контейнер сервлетов.
 
 #### Сеть и сокеты
 
-* **Netty** низкоуровневый асинхроно-событийный фреймворк для быстрого создания высокопроизводительных клиент-серверных соединений. Более удобный аналог ассинхронным сокетам из модуля java.nio из JDK.
+* [**Netty**](https://github.com/netty/netty) низкоуровневый асинхроно-событийный фреймворк для быстрого создания высокопроизводительных клиент-серверных соединений. Более удобный аналог ассинхронным сокетам из модуля java.nio из JDK.
 
-* **Netty Socket.IO** Реализация Socket.IO сервера на Java. Основан на Netty фреймворке, служит для обеспечение работы с сетевыми соединениями и сокетами.
+* [**Netty Socket.IO**](https://github.com/mrniko/netty-socketio) Реализация Socket.IO сервера на Java. Основан на Netty фреймворке, служит для обеспечение работы с сетевыми соединениями и сокетами.
 
-* **gRPC-Java** реализация RPC библиотеки и фреймворка на Java.
+* [**gRPC-Java**](https://github.com/grpc/grpc-java) реализация RPC библиотеки и фреймворка на Java.
 
-* **Socket.io java client** Реализация Socket.IO клиента на Java.
+* [**Socket.IO Java client**](https://github.com/Gottox/socket.io-java-client) Реализация Socket.IO клиента на Java.
 
-* **Socket.io client.java** Полнофункциональная Socket.IO клиентская библиотека для Java, совместимая с Socket.IO v1.0 и выше.
+* [**Socket.IO client.java**](https://github.com/nkzawa/socket.io-client.java) Полнофункциональная Socket.IO клиентская библиотека для Java, совместимая с Socket.IO v1.0 и выше.
 
-* **EsotericSoftware Kryonet** TCP/UDP клиентская и серверная библиотека для Java, основанная на Kryo.
+* [**EsotericSoftware Kryonet**](https://github.com/EsotericSoftware/kryonet) TCP/UDP клиентская и серверная библиотека для Java, основанная на Kryo.
 
 #### Работа с HTTP и SSH
 
-* **Square Okhttp** HTTP & SPDY (новый формат HTTP от гугла) клиент для Android и Java.
+* [**Square Okhttp**](https://github.com/square/okhttp) HTTP & SPDY (новый формат HTTP от гугла) клиент для Android и Java.
 
-* **AsyncHttpClient** Асинхронная Http и WebSocket клиентская библиотека для Java.
+* [**AsyncHttpClient**](https://github.com/AsyncHttpClient/async-http-client) Асинхронная Http и WebSocket клиентская библиотека для Java.
 
-* **Http request** Java библиотека для отправки различных HTTP Request и получения response.
+* [**HTTP request**](https://github.com/kevinsawicki/http-request) Java библиотека для отправки различных HTTP Request и получения response.
 
-* **Nanohttpd** Крошечный и простой embeddable HTTP сервер для Java.
+* [**NanoHttpd**](https://github.com/NanoHttpd/nanohttpd) Крошечный и простой embeddable HTTP сервер для Java.
 
-* **Http kit** минималистский, событийный, высокопроизводительный Clojure HTTP сервер и клиентская библиотека с WebSocket и поддержкой асинхронности.
+* [**HTTP kit**](https://github.com/http-kit/http-kit) минималистский, событийный, высокопроизводительный Clojure HTTP сервер и клиентская библиотека с WebSocket и поддержкой асинхронности.
 
-* **Apache Zookeeper** позволяет разрабатывать и поддерживать сервер, который позволяет очень надежную распределенную координации.
+* [**Apache Zookeeper**](https://github.com/apache/zookeeper) позволяет разрабатывать и поддерживать сервер, который позволяет очень надежную распределенную координации.
 
-* **Moco** Простой HTTP Stub сервер, для простого тестирования интеграции.
+* [**Moco**](https://github.com/dreamhead/moco) Простой HTTP Stub сервер, для простого тестирования интеграции.
 
-* **Webbit** событийно-ориентированный вебсокет и HTTP сервер.
+* [**Webbit**](https://github.com/webbit/webbit) событийно-ориентированный вебсокет и HTTP сервер.
 
-* **Mashape Unirest java** Упрощенная и легковесная HTTP клиент библиотека.
+* [**Mashape Unirest for Java**](https://github.com/Mashape/unirest-java) Упрощенная и легковесная HTTP клиент библиотека.
 
-* **Sshj** Поддержка ssh, scp и sftp для Java.
+* [**Sshj**](https://github.com/hierynomus/sshj) Поддержка ssh, scp и sftp для Java.
 
-* **Netflix Feign** позволяет создавать Java Http клиента проще и быстрее. Feign основан на Retrofit, JAXRS-2.0 и WebSocket.
+* [**Netflix Feign**](https://github.com/Netflix/feign) позволяет создавать Java Http клиента проще и быстрее. Feign основан на Retrofit, JAXRS-2.0 и WebSocket.
 
 #### Работа с REST
 
-* **Square Retrofit** Типобезопасная библиотека для создания REST клиента для Android и Java.
+* [**Square Retrofit**](https://github.com/square/retrofit) Типобезопасная библиотека для создания REST клиента для Android и Java.
 
-* **Dropwizard** фреймворк для создания RESTful сервисов.
+* [**Dropwizard**](https://github.com/dropwizard/dropwizard) фреймворк для создания RESTful сервисов.
 
-* **Swagger core** Примеры и сервер интеграция для генерации Swagger API спецификаий, которые позволяют создать легкий доступ к вашему REST API.
+* [**Swagger core**](https://github.com/swagger-api/swagger-core) Примеры и сервер интеграция для генерации Swagger API спецификаий, которые позволяют создать легкий доступ к вашему REST API.
 
-* **Generator jhipster** Хипстер стек для Java разработчиков: Yeoman + Maven + Spring + AngularJS в одном генераторе.
+* [**Generator jhipster**](https://github.com/jhipster/generator-jhipster) Хипстер стек для Java разработчиков: Yeoman + Maven + Spring + AngularJS в одном генераторе.
 
-* **Jersey** REST фреймворк реализующий JAX-RS спецификацию.
+* [**Jersey**](https://github.com/jersey/jersey) REST фреймворк реализующий JAX-RS спецификацию.
 
-* **Linkedin Rest.li** REST+JSON фреймворк для создания надежных, маштабируемых сервисов с использованием простого асинхронного API и dynamic discovery спецификацию.
+* [**Linkedin Rest.li**](https://github.com/linkedin/rest.li) REST+JSON фреймворк для создания надежных, маштабируемых сервисов с использованием простого асинхронного API и dynamic discovery спецификацию.
 
-* **Spring HATEOAS** проект поддерживает APIs для легкого создания REST сервисов поддерживающих HATEOAS принципы для Spring и особенно Spring MVC.
+* [**Spring HATEOAS**](https://github.com/spring-projects/spring-hateoas) проект поддерживает APIs для легкого создания REST сервисов поддерживающих HATEOAS принципы для Spring и особенно Spring MVC.
 
 #### IDE
 
-* **IntelliJ IDEA Community Edition** одна из лучших IDE для Java.
+* [**IntelliJ IDEA Community Edition**](https://github.com/JetBrains/intellij-community) одна из лучших IDE для Java.
 
-* **RStudio** IDE для языка R.
+* [**RStudio**](https://github.com/rstudio/rstudio) IDE для языка R.
 
 #### Инструменты и библиотеки для сборки, конфигурирования и развертывания Java приложений
 
-* **Google Bazel** корректная, воспроизводимая и быстрая билд система для любых ситуаций.
+* [**Google Bazel**](https://github.com/google/bazel) корректная, воспроизводимая и быстрая билд система для любых ситуаций.
 
-* **Gradle** мощная система сборки для JVM.
+* [**Gradle**](https://github.com/gradle/gradle) мощная система сборки для JVM.
 
-* **Spring Boot** система быстрого развертывания и создания приложений, которых необходимо только запустить.
+* [**Spring Boot**](https://github.com/spring-projects/spring-boot) система быстрого развертывания и создания приложений, которых необходимо только запустить.
 
-* **Reactor** полнофункциональная библиотека для разработки быстрых data-driven приложений на JVM. Она предоставляет абстракции для Java, Groovy, Clojure и других JVM языков для создания и обработки событий (event) и простой разработки data-driven приложений.
+* [**Reactor**](https://github.com/reactor/reactor) полнофункциональная библиотека для разработки быстрых data-driven приложений на JVM. Она предоставляет абстракции для Java, Groovy, Clojure и других JVM языков для создания и обработки событий (event) и простой разработки data-driven приложений.
 
-* **Facebook Buck** система сборки, упрощающая создание небольших, повторно используемых модулей.
+* [**Facebook Buck**](https://github.com/facebook/buck) система сборки, упрощающая создание небольших, повторно используемых модулей.
 
-* **Spotify Helios** Docker orchestration платформа для развертывания и управления контейнерами с помощью HTTP API или командной строки.
+* [**Spotify Helios**](https://github.com/spotify/helios) Docker orchestration платформа для развертывания и управления контейнерами с помощью HTTP API или командной строки.
 
-* **Netflix Archaius** библиотека, реализующая API для управления конфигурациями, используется Netflix.
+* [**Netflix Archaius**](https://github.com/Netflix/archaius) библиотека, реализующая API для управления конфигурациями, используется Netflix.
 
-* **Puniverse Capsule** система сборки приложения в один выполняемый JAR файл со всеми артефактами, ресурсами, нативными библиотеками и т.п.
+* [**Puniverse Capsule**](https://github.com/puniverse/capsule) система сборки приложения в один выполняемый JAR файл со всеми артефактами, ресурсами, нативными библиотеками и т.п.
 
 #### Производительность
 
-* **Square Leakcanary** утилита для поиска ошибок из-за которых происходит memory leak для Android и Java.
+* [**Square Leakcanary**](https://github.com/square/leakcanary) утилита для поиска ошибок из-за которых происходит memory leak для Android и Java.
 
-* **Dropwizard Metrics** библиотека для замера различных метрик в Java приложении для простого понимания что и как код делает во время продакшена.
+* [**Dropwizard Metrics**](https://github.com/dropwizard/metrics) библиотека для замера различных метрик в Java приложении для простого понимания что и как код делает во время продакшена.
 
-* **GCViewer** Форк Tagtraum GCViewer — небольшой инструмент для подробной визуализации GC (garbage collector) логов (включая G1 collector).
+* [**GCViewer**](https://github.com/chewiebug/GCViewer) Форк Tagtraum GCViewer — небольшой инструмент для подробной визуализации GC (garbage collector) логов (включая G1 collector).
 
-* **AdoptOpenJDK Jitwatch** Анализатор логов Java HotSpot JIT компилятора, показывающий результаты используя JavaFX интерфейс.
+* [**AdoptOpenJDK Jitwatch**](https://github.com/AdoptOpenJDK/jitwatch) Анализатор логов Java HotSpot JIT компилятора, показывающий результаты используя JavaFX интерфейс.
 
-* **Naver Pinpoint** APM (Application Performance Management) инструмент мониторинга производительности крупномасштабных распределенных систем, написанных на 
+* [**Naver Pinpoint**](https://github.com/naver/pinpoint) APM (Application Performance Management) инструмент мониторинга производительности крупномасштабных распределенных систем, написанных на 
 Java. Создан на основе Google's Dapper paper.
 
 #### Генерация кода
 
-* **Google Auto** коллекция генераторов исходного кода в Java.
+* [**Google Auto**](https://github.com/google/auto) коллекция генераторов исходного кода в Java.
 
-* **Square Javapoet** библиотека для генерации исходных кодов классов Java.
+* [**Square Javapoet**](https://github.com/square/javapoet) библиотека для генерации исходных кодов классов Java.
 
-* **Byte buddy** динамическая генерация кода в Java платформе.
+* [**Byte buddy**](https://github.com/raphw/byte-buddy) динамическая генерация кода в Java платформе.
 
 #### Анализ исходного кода
 
-* **SonarQube** свободная платформа для управлением качеством кода.
+* [**SonarQube**](https://github.com/SonarSource/sonarqube) свободная платформа для управлением качеством кода.
 
-* **Google Error prone** обнаружение типовых ошибок в Java коде.
+* [**Google Error prone**](https://github.com/google/error-prone) обнаружение типовых ошибок в Java коде.
 
-* **OpenGrok** быстрый поиск в исходном коде проекта, поиск кросс-ссылок в классах и навигации по дереву исходного кода, он поддерживает разные системы управления кодов, такие как SCCS, RCS, CVS, Subversion, Mercurial и т.п.
+* [**OpenGrok**](https://github.com/OpenGrok/OpenGrok) быстрый поиск в исходном коде проекта, поиск кросс-ссылок в классах и навигации по дереву исходного кода, он поддерживает разные системы управления кодов, такие как SCCS, RCS, CVS, Subversion, Mercurial и т.п.
 
 #### Тестирование
 
-* **Junit** Простой и популярный фреймворк для unit тестирования.
+* [**Junit**](https://github.com/junit-team/junit) Простой и популярный фреймворк для unit тестирования.
 
-* **Mockito** Mocking фреймворк для unit тестов, написанных на Java.
+* [**Mockito**](https://github.com/mockito/mockito) Mocking фреймворк для unit тестов, написанных на Java.
 
-* **Selenium** Фреймворк для автоматического тестирования в браузере.
+* [**Selenium**](https://github.com/SeleniumHQ/selenium) Фреймворк для автоматического тестирования в браузере.
 
-* **Spock** фреймворк тестирования и создания спецификаций для Java и Groovy приложений.
+* [**Spock**](https://github.com/spockframework/spock) фреймворк тестирования и создания спецификаций для Java и Groovy приложений.
 
-* **Google Firing Range** тестовый вебсервер для приложений-сканеров уязвимостей вебсайтов. Firing Range создает широкий спектр синтетических уязвимостей.
+* [**Google Firing Range**](https://github.com/google/firing-range) тестовый вебсервер для приложений-сканеров уязвимостей вебсайтов. Firing Range создает широкий спектр синтетических уязвимостей.
 
-* **FitNesse** система тестирования, вебсервер и вики.
+* [**FitNesse**](https://github.com/unclebob/fitnesse) система тестирования, вебсервер и вики.
 
-* **Sikuli** служит для написания скриптов, служащих для автоматизации работы со всем что вы ведите на экране.
+* [**Sikuli**](https://github.com/sikuli/sikuli) служит для написания скриптов, служащих для автоматизации работы со всем что вы ведите на экране.
 
-* **JavaHamcrest** фреймворк для создания условий и правил в программных тестах, написанных на Java, он позволяет создать сложные выражения для этих условий (assertion matcher), которые потом могут использовать в системах unit тестирования, таких как JUnit или jMock.
+* [**JavaHamcrest**](https://github.com/hamcrest/JavaHamcrest) фреймворк для создания условий и правил в программных тестах, написанных на Java, он позволяет создать сложные выражения для этих условий (assertion matcher), которые потом могут использовать в системах unit тестирования, таких как JUnit или jMock.
 
-* **WireMock** Инструментарий для создания mock'ов (заглушек для тестирования) HTTP сервисов.
+* [**WireMock**](https://github.com/tomakehurst/wiremock) Инструментарий для создания mock'ов (заглушек для тестирования) HTTP сервисов.
 
-* **TestNG** фреймворк для тестирования.
+* [**TestNG**](https://github.com/cbeust/testng) фреймворк для тестирования.
 
-* **Galen Framework** мощный фреймворк для автоматического тестирования дизайна и функционала вебсайтов. Использует Selenium для работы с браузером и автоматического тестирования вебсайтов.
+* [**Galen Framework**](https://github.com/galenframework/galen) мощный фреймворк для автоматического тестирования дизайна и функционала вебсайтов. Использует Selenium для работы с браузером и автоматического тестирования вебсайтов.
 
-* **AssertJ** это библиотека предоставляющая мощный механизм работы с условиями (assertion) для тестовых фреймворков.
+* [**AssertJ**](https://github.com/joel-costigliola/assertj-core) это библиотека предоставляющая мощный механизм работы с условиями (assertion) для тестовых фреймворков.
 
-* **Google truth** Фреймворк для задания ограничений и утверждений (Assertion/Proposition) в Unit тестах (версия ещё очень альфа, может быть полностью изменена ).
+* [**Google truth**](https://github.com/google/truth) Фреймворк для задания ограничений и утверждений (Assertion/Proposition) в Unit тестах (версия ещё очень альфа, может быть полностью изменена ).
 
 #### Языки программирования, написанные на Java
 
-* **Clojure** Язык программирования Clojure.
+* [**Clojure**](https://github.com/clojure/clojure) Язык программирования Clojure.
 
-* **JetBrains Kotlin** Язык программирования Kotlin.
+* [**JetBrains Kotlin**](https://github.com/JetBrains/kotlin) Язык программирования Kotlin.
 
-* **Gocd** Основной репозиторий для сборки Go программ.
+* [**Gocd**](https://github.com/gocd/gocd) Основной репозиторий для сборки Go программ.
 
-* **Groovy core** Язык программирования Groovy.
+* [**Groovy core**](https://github.com/groovy/groovy-core) Язык программирования Groovy.
 
-* **Jphp compiler** Альтернативный вариант Zend PHP для JVM, такой же как JRuby и Jython но только для PHP.
+* [**Jphp compiler**](https://github.com/jphp-compiler/jphp) Альтернативный вариант Zend PHP для JVM, такой же как JRuby и Jython но только для PHP.
 
-* **Trifork Erjang** Виртуальная JVM машина для языка Erlang.
+* [**Trifork Erjang**](https://github.com/trifork/erjang) Виртуальная JVM машина для языка Erlang.
 
-* **Apache Incubator groovy** Зеркало для Apache Groovy — исходного кода языка программирования Groovy.
+* [**Apache Incubator groovy**](https://github.com/apache/incubator-groovy) Зеркало для Apache Groovy — исходного кода языка программирования Groovy.
 
 #### Примеры исходного кода на Java
 
@@ -600,7 +600,11 @@ Java. Создан на основе Google's Dapper paper.
 * [**Spring data JPA examples**](https://github.com/spring-projects/spring-data-jpa-examples) Примеры использования разных возможностей Spring Data JPA.
 
 
-См. https://github.com/Vedenin/useful-java-links
+*****
+
+На основе статьи https://habr.com/post/266821/
+
+См. также https://github.com/Vedenin/useful-java-links
 
 https://github.com/akullpp/awesome-java
 
